@@ -5,6 +5,8 @@ import copy
 # timestep vector (for experimental purposes for now) 48 hours? minutes? seconds? tacos? im hungry for tacos
 time = np.arange(48)
 
+# I too want tacos
+
 # begin class code
 class Th17cell:
     # some random sh!t that may come into use later, still tryna figure out the role of variables defined outside of
